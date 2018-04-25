@@ -1,0 +1,20 @@
+html * {
+	font-family: 'Indie Flower', cursive;
+}
+
+body{
+  background-image: url("http://bloody-disgusting.com/wp-content/uploads/2017/12/disney-alien-vs-predator.png");
+  text-align:center;
+}
+
+
+h1{
+  color: #8DCFE3;
+}
+
+li{
+  color: ##8DCFE3;
+}
+input {
+	margin-bottom:20px;
+}
