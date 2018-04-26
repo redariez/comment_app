@@ -23,4 +23,5 @@ function getinfo(){
   newListItem.appendChild(newComment)
   document.getElementById("commentList").appendChild(newListItem)
 
+
 }
