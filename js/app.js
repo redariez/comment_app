@@ -10,6 +10,7 @@ function getinfo(){
 
   var img = document.createElement("img")
   var newListItem = document.createElement("Li")
+  newListItem.style.color = "red";
   newListItem.className = "group-list-item"
   var newUserName = document.createElement("H3")
   newUserName.appendChild(userNameText)
